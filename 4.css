@@ -1,0 +1,18 @@
+#jaune {
+   background: #FCD116;
+   height: 250px;
+}
+#bleu {
+   background: #003893;
+   height: 125px;
+}
+#rouge {
+   background: #CE1126;
+   height: 125px;
+}
+#identity {
+   text-align: center;
+}
+#page {
+	margin:8px 100px 0px 25px;
+}
